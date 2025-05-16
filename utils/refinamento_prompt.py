@@ -18,10 +18,21 @@ def otimizar_prompt_e_modelo(pergunta: str) -> tuple[str, str]:
     # 1️⃣ Etapa de refino do prompt
     refiner = genai.GenerativeModel(FAST_REFINER)
     open_prompt = f"""
-                    Refine este prompt para deixá-lo mais claro e objetivo,
-                    incluindo contexto temporal e notícias recentes:
-                    ---
-                    {pergunta}
+                        Refine este texto para transformá-lo em um **prompt completo** e **pronto para uso** no Chatbot Universitário onde.  
+                        → Este prompt será injetado no modelo para gerar respostas a perguntas de estudantes brasileiros.
+                        
+                        Requisitos obrigatórios:
+                        - Inclua **contexto**  
+                        - solicite **notícias ** de forma sucinta.  
+                        - Estruture a saída de forma **clara e objetiva**, usando bullets quando fizer sentido.  
+                        - **Mantenha a intenção original**, mesmo que o texto de entrada seja muito curto.  
+                        - **Não mencione** o nome ou detalhes técnicos do modelo de linguagem.
+                        
+                        Texto original:
+                        \"\"\"{pergunta}\"\"\"
+                        
+                        —
+                        **Retorne somente** o prompt refinado, sem solicitar informações adicionais ao usuário.
                     """
     resposta_refino = refiner.generate_content(open_prompt)
     prompt_refinado = resposta_refino.text.strip()
