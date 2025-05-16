@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sobre | EducAI Universitário</title>
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-black text-white flex flex-col h-screen">
+
+  <!-- Header estilo TikTok -->
+  <header class="flex items-center justify-between p-4 border-b border-gray-800">
+    <h1 class="text-2xl font-bold">
+      <span class="text-pink-500">EducAI</span>Bot
+    </h1>
+    <nav class="space-x-4">
+      <a href="/" class="text-gray-400 hover:text-white">Home</a>
+      <a href="/inicio" class="text-white font-semibold">Chat</a>
+    </nav>
+  </header>
+
+  <!-- Conteúdo Sobre -->
+  <main class="flex-1 overflow-auto p-8 space-y-6">
+    <h2 class="text-3xl font-bold text-center">Sobre o EducAI Universitário</h2>
+    <p class="text-gray-300 leading-relaxed max-w-2xl mx-auto">
+      O <strong>EducAI Universitário</strong> é um assistente educacional desenvolvido em Python e Flask,
+      integrado à API <em>Google Gemini</em> para oferecer respostas em linguagem natural sobre vestibulares,
+      ENEM e processos seletivos. O projeto foi idealizado para:
+    </p>
+    <ul class="list-disc list-inside text-gray-300 max-w-2xl mx-auto space-y-2">
+      <li>Injetar contexto temporal e notícias atualizadas em tempo real;</li>
+      <li>Manter histórico de conversas e usar cache para otimizar desempenho;</li>
+      <li>Fornecer guia passo a passo para estudantes brasileiros;</li>
+      <li>Oferecer interface moderna, mobile-first e inspirada no TikTok.</li>
+    </ul>
+    <p class="text-gray-300 leading-relaxed max-w-2xl mx-auto">
+      Ferramentas e tecnologias utilizadas:
+      <strong>Flask, Google Generative AI (Gemini), Tailwind CSS, python-dotenv, cachetools, feedparser</strong>.
+    </p>
+  </main>
+
+  <!-- Footer -->
+  <footer class="p-4 border-t border-gray-800 text-center text-gray-500">
+    &copy; 2025 EducAI Universitário. Todos os direitos reservados.
+  </footer>
+
+</body>
+</html>

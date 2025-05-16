@@ -53,6 +53,14 @@ def get_system_instructions() -> str:
 
 @app.route('/')
 def index():
+    return render_template('welcome.html')
+
+@app.route('/sobre')
+def sobre():
+    return render_template('sobre.html')
+
+@app.route('/inicio')
+def index1():
     return render_template('index.html')
 
 
@@ -94,9 +102,6 @@ def cursos():
     api_url = "https://api.universidades.gov.br/cursos"
     dados = buscar_cursos(api_url)
     return jsonify(dados)
-
-
-
 
 if __name__ == '__main__':
     app.run(debug=True)
