@@ -18,13 +18,27 @@ def otimizar_prompt_e_modelo(pergunta: str) -> tuple[str, str]:
     # 1️⃣ Etapa de refino do prompt
     refiner = genai.GenerativeModel(FAST_REFINER)
     open_prompt = f"""
-                    Refine este prompt para deixá-lo mais claro e objetivo,
-                    incluindo contexto temporal e notícias recentes:
-                    ---
+                    "Você é um especialista em otimização de prompts para modelos de IA. Sua tarefa é refinar o prompt abaixo aplicando técnicas de engenharia de prompt, mantendo rigorosamente o conteúdo e o sentido original (mesmo que breve). Inclua contexto temporal relevante (ex.: 'considerando eventos até [DATA_ATUAL]') e mencione a necessidade de integrar notícias ou dados recentes, se aplicável.
+
+                    Estrutura obrigatória do prompt refinado:
+                    
+                    Papel do respondente: Especifique apenas a expertise necessária para responder à pergunta.
+                    
+                    Contexto: Adicione temporalidade (ex.: 'no contexto de 2023') e eventos recentes relacionados.
+                    
+                    Requisitos da resposta: Formato, profundidade e fontes (ex.: 'cite dados atualizados').
+                    
+                    Instrução final: Direcione para responder objetivamente, mantendo a voz original (ex.: 'de um jovem').
+                    
+                    Prompt original do usuário:
                     {pergunta}
-                    **Mantenha a intenção original**, mesmo que o texto de entrada seja muito curto.
-                    **Retorne somente** o prompt refinado, sem solicitar informações adicionais ao usuário.
-                    """
+                    
+                    Restrições:
+                    
+                    Não altere o tópico, opiniões ou estilo do usuário.
+                    
+                    Não inclua metainstruções (ex.: 'o modelo deve...'), apenas o prompt refinado."
+                """
     resposta_refino = refiner.generate_content(open_prompt)
     prompt_refinado = resposta_refino.text.strip()
 
