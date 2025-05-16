@@ -1,6 +1,6 @@
 # Feed: UOL Vestibular
 
-> Atualizado em: 2025-05-16 06:54:03
+> Atualizado em: 2025-05-16 07:10:43
 
 
 ## UFMG: confira datas e obras do 1º Vestibular Seriado 2025
