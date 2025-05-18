@@ -10,7 +10,7 @@ from typing import Optional
 
 # --- Configuração inicial ---
 #API_KEY = get_env_var("API_KEY")
-API_KEY = 'AIzaSyDc1E_5mhq34SNdUlAlCEY5xFP21rdiWzc'
+API_KEY = ''
 genai.configure(api_key=API_KEY)
 
 # Agora usamos a versão numerada que existe na registry
