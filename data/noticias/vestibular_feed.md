@@ -1,7 +1,25 @@
 # Feed: UOL Vestibular
 
-> Atualizado em: 2025-05-16 10:11:02
+> Atualizado em: 2025-05-18 00:20:05
 
+
+## Pint of Science 2025: divulgação da ciência em restaurantes brasileiros
+
+- 📅 Publicado: Sex, 16 Mai 2025 17:31:00 -0300
+- 🔗 [Link](https://vestibular.brasilescola.uol.com.br/noticias/pint-of-science-2025-evento-divulgacao-cientifica-restaurantes-brasileiros/357726.html)
+
+<img align="left" src="https://conteudo.imguol.com.br/c/noticias/14/2025/05/16/foto-do-evento-pint-of-science-no-rio-de-janeiro-1747438487904_v2_142x100.jpg" />  Maior evento de divulgação científica do mundo em restaurantes, o Pint of Science 2025, pode ajudar estudantes na escolha do curso superior. Saiba mais!
+
+---
+
+## Provas do Vestibular 2025 da Univesp acontecem neste domingo, 18
+
+- 📅 Publicado: Sex, 16 Mai 2025 11:37:36 -0300
+- 🔗 [Link](https://vestibular.brasilescola.uol.com.br/noticias/provas-vestibular-2025-univesp-acontecem-neste-domingo/357725.html)
+
+<img align="left" src="https://conteudo.imguol.com.br/c/noticias/16/2025/05/16/foto-de-computador-com-a-logo-do-vestibular-texto-univeso-vestibular-2025-1747406388135_v2_142x100.jpg" />  São ofertadas 22 mil vagas para licenciaturas, áreas de computação e negócios e produção.
+
+---
 
 ## UFMG: confira datas e obras do 1º Vestibular Seriado 2025
 
@@ -117,23 +135,5 @@
 - 🔗 [Link](https://vestibular.brasilescola.uol.com.br/noticias/fatec-sp-resultado-da-isencao-e-reducao-da-taxa-de-inscricao-do-vestibular-2025-2-esta-disponivel/357680.html)
 
 <img align="left" src="https://conteudo.imguol.com.br/c/noticias/a0/2025/05/12/fundo-azul-e-branco-listras-branco-e-preto-foto-de-auditorio-da-fatec-texto-fatec-vestibular-20252-1747074160484_v2_142x100.jpg" />  Está disponível o resultado dos pedidos de isenção ou redução da taxa de inscrição do Vestibular 2025/2 da Faculdade de Tecnologia de São Paulo (Fatec).
-
----
-
-## Fuvest abre isenção de taxa do Vestibular 2026
-
-- 📅 Publicado: Seg, 12 Mai 2025 13:07:01 -0300
-- 🔗 [Link](https://vestibular.brasilescola.uol.com.br/noticias/fuvest-abre-isencao-taxa-vestibular-2026/357701.html)
-
-<img align="left" src="https://conteudo.imguol.com.br/c/noticias/91/2025/05/12/fundo-branco-com-cinza-listras-preto-e-branco-foto-de-estudantes-em-campus-da-usp-texto-fuvest-vestibular-2026-1747066059638_v2_142x100.jpg" />  Candidatos podem fazer a solicitação para realizar o Vestibular Fuvest 2026 de forma gratuita.
-
----
-
-## Vestibulinho Etecs 2025/2: inscrições abertas
-
-- 📅 Publicado: Seg, 12 Mai 2025 10:51:45 -0300
-- 🔗 [Link](https://vestibular.brasilescola.uol.com.br/noticias/inscricoes-para-o-vestibulinho-das-estecs-comecam-hoje-12/357699.html)
-
-<img align="left" src="https://conteudo.imguol.com.br/c/noticias/e4/2025/05/12/estudante-sorri-texto-na-imagem-etecs-2025-1747057961102_v2_142x100.jpg" />  As inscrições para o vestibulinho 2025 das Etecs começaram hoje, dia 12 de maio, confira mais informações sobre o assunto.
 
 ---

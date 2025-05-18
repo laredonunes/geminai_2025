@@ -9,6 +9,11 @@ from utils.refinamento_prompt import otimizar_prompt_e_modelo
 from utils.memoria import summarize_relevant_history
 from datetime import datetime
 from markdown import markdown
+#| agentes |------------------------|
+from utils.agents_classificador import is_task
+from utils.agents_exatas import exatas_remota
+from utils.agents_classificador_ciencias import classify_area
+from utils.agents_humanas import humanas_remota
 
 app = Flask(__name__)
 
@@ -73,6 +78,20 @@ def perguntar():
     if pergunta is None:
         html_response = markdown('', extensions=["fenced_code", "tables"])
         return render_template('index.html', resposta_html=html_response)
+    if is_task(pergunta):
+        print('é uma questão')
+        literal = classify_area(pergunta)
+        print(literal)
+        if literal == 'EXATAS':
+            retorno = exatas_remota(pergunta)
+            print('feito calculo com agente')
+            html_response = markdown(retorno, extensions=["fenced_code", "tables"])
+            return render_template('index.html', resposta_html=html_response)
+        if literal == 'HUMANAS':
+            retorno = humanas_remota(pergunta)
+            print('feito calculo com agente')
+            html_response = markdown(retorno, extensions=["fenced_code", "tables"])
+            return render_template('index.html', resposta_html=html_response)
     context_summary = summarize_relevant_history(pergunta)
     print(context_summary)
     prompt_ref, modelo = otimizar_prompt_e_modelo(pergunta) # refina o prompt
