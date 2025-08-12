@@ -1,139 +1,139 @@
 # Feed: UOL Vestibular
 
-> Atualizado em: 2025-05-18 00:20:05
+> Atualizado em: 2025-07-26 10:37:15
 
 
-## Pint of Science 2025: divulgação da ciência em restaurantes brasileiros
+## Edital PAES UEMA 2026: veja vagas e datas do vestibular
 
-- 📅 Publicado: Sex, 16 Mai 2025 17:31:00 -0300
-- 🔗 [Link](https://vestibular.brasilescola.uol.com.br/noticias/pint-of-science-2025-evento-divulgacao-cientifica-restaurantes-brasileiros/357726.html)
+- 📅 Publicado: Sex, 25 Jul 2025 15:08:49 -0300
+- 🔗 [Link](https://vestibular.brasilescola.uol.com.br/noticias/uema-2026-edital-paes-vagas-datas/357929.html)
 
-<img align="left" src="https://conteudo.imguol.com.br/c/noticias/14/2025/05/16/foto-do-evento-pint-of-science-no-rio-de-janeiro-1747438487904_v2_142x100.jpg" />  Maior evento de divulgação científica do mundo em restaurantes, o Pint of Science 2025, pode ajudar estudantes na escolha do curso superior. Saiba mais!
-
----
-
-## Provas do Vestibular 2025 da Univesp acontecem neste domingo, 18
-
-- 📅 Publicado: Sex, 16 Mai 2025 11:37:36 -0300
-- 🔗 [Link](https://vestibular.brasilescola.uol.com.br/noticias/provas-vestibular-2025-univesp-acontecem-neste-domingo/357725.html)
-
-<img align="left" src="https://conteudo.imguol.com.br/c/noticias/16/2025/05/16/foto-de-computador-com-a-logo-do-vestibular-texto-univeso-vestibular-2025-1747406388135_v2_142x100.jpg" />  São ofertadas 22 mil vagas para licenciaturas, áreas de computação e negócios e produção.
+<img align="left" src="https://conteudo.imguol.com.br/c/noticias/ba/2025/07/25/foto-logo-da-uema-em-fundo-bexe-com-listras-nos-cantos-texto-uema-paes-2026-1753466969998_v2_142x100.png" />  O edital do PAES 2026 da Universidade Estadual do Maranhão (UEMA) está disponível para consulta. Quase 6 mil vagas são oferecidas. Saiba mais!
 
 ---
 
-## UFMG: confira datas e obras do 1º Vestibular Seriado 2025
+## Resultado Isenção Unicamp 2026: veja lista de beneficiados
 
-- 📅 Publicado: Qui, 15 Mai 2025 18:36:00 -0300
-- 🔗 [Link](https://vestibular.brasilescola.uol.com.br/noticias/ufmg-anuncia-datas-e-livros-do-1-vestibular-seriado-2025/357723.html)
+- 📅 Publicado: Sex, 25 Jul 2025 14:09:39 -0300
+- 🔗 [Link](https://vestibular.brasilescola.uol.com.br/noticias/unicamp-resultado-isencao-taxa-vestibular-2026-beneficiados/357928.html)
 
-<img align="left" src="https://conteudo.imguol.com.br/c/noticias/cb/2025/05/15/vestibular-seriado-2025-da-ufmg-1747345188961_v2_142x100.png" />  A UFMG informou que as provas da 1ª etapa do Vestibular Seriado 2025 serão aplicadas em 14 de dezembro. Esta será a 1ª seleção seriada da instituição mineira.
-
----
-
-## UEM 2025: aberta inscrição do Vestibular de Inverno
-
-- 📅 Publicado: Qui, 15 Mai 2025 17:32:00 -0300
-- 🔗 [Link](https://vestibular.brasilescola.uol.com.br/noticias/parana-uem-abre-inscricao-do-vestibular-de-inverno-2025/357722.html)
-
-<img align="left" src="https://conteudo.imguol.com.br/c/noticias/8d/2025/05/15/vestibular-de-inverno-2025-da-uem-1747341287636_v2_142x100.png" />  A UEM, em Maringá (PR), abriu hoje, 15 de maio, inscrições para o Vestibular de Inverno 2025. Os interessados podem fazer o cadastro até o dia 4 de junho.
+<img align="left" src="https://conteudo.imguol.com.br/c/noticias/ed/2025/07/25/fundo-verde-agua-listras-preto-e-branco-e-foto-do-campus-da-unicamp-1753463670933_v2_142x100.png" />  A Unicamp antecipou nesta sexta-feira, 25 de julho, o resultado com os candidatos isentos da taxa do Vestibular 2026. Confira!
 
 ---
 
-## Cederj: inscrição do Vestibular 2025/2 é prorrogada
+## Vestibular da UERJ 2026: cursinho oferece vagas gratuitas
 
-- 📅 Publicado: Qui, 15 Mai 2025 14:17:00 -0300
-- 🔗 [Link](https://vestibular.brasilescola.uol.com.br/noticias/cederj-prorroga-inscricao-do-vestibular-2025-2/357720.html)
+- 📅 Publicado: Qui, 24 Jul 2025 15:42:37 -0300
+- 🔗 [Link](https://vestibular.brasilescola.uol.com.br/noticias/vestibular-da-uerj-2026-cursinho-especifico-para-exame-discursivo-abre-inscricao/357926.html)
 
-<img align="left" src="https://conteudo.imguol.com.br/c/noticias/0c/2025/05/15/vestibular-20252-do-cederj-1747329589042_v2_142x100.jpg" />  O Cederj prorrogou a inscrição do Vestibular 2025/2. Agora, os candidatos podem se inscrever até o dia 22 de maio.
-
----
-
-## UFG: local de prova do Vestibular 2025/2 para Cidade Ocidental pode ser conferido
-
-- 📅 Publicado: Qui, 15 Mai 2025 12:58:20 -0300
-- 🔗 [Link](https://vestibular.brasilescola.uol.com.br/noticias/ufg-local-prova-vestibular-2025-2-cidade-ocidental-conferido/357707.html)
-
-<img align="left" src="https://conteudo.imguol.com.br/c/noticias/e7/2025/05/15/fundo-azul-listras-branca-e-cinza-escuro-foto-da-reitoria-da-ufg-texto-ufg-vestibular-20252-cidade-ocidental-1747324788799_v2_142x100.jpg" />  As provas serão aplicadas no dia 18 de maio, para concorrer por 240 vagas em cursos de graduação da UFG campus Cidade Ocidental.
+<img align="left" src="https://conteudo.imguol.com.br/c/noticias/22/2025/07/24/estudantes-do-cursinho-cecierj-1753382672123_v2_142x100.png" />  Cursinho gratuito específico para Exame Discursivo do Vestibular 2026 da UERJ abriu inscrição hoje. Prazo vai até dia 25 de agosto.
 
 ---
 
-## UEG 2025/2: locais de prova são divulgados hoje (14)
+## UFAM: edital do PSI 2026 é divulgado
 
-- 📅 Publicado: Qua, 14 Mai 2025 16:40:58 -0300
-- 🔗 [Link](https://vestibular.brasilescola.uol.com.br/noticias/locais-de-prova-do-vestibular-2025-2-da-ueg/357713.html)
+- 📅 Publicado: Qui, 24 Jul 2025 11:11:07 -0300
+- 🔗 [Link](https://vestibular.brasilescola.uol.com.br/noticias/ufam-edital-psi-2026-divulgado/357925.html)
 
-<img align="left" src="https://conteudo.imguol.com.br/c/noticias/f4/2025/05/14/campus-da-ueg-com-fundo-cinza-texto-na-imagem-ueg-20252-1747251888481_v2_142x100.jpg" />  Confira o link de divulgação dos locais de prova do vestibular 2025/2 da UEG e mais informações sobre o processo seletivo.
-
----
-
-## Vestibulares 2026 de São Paulo: veja datas das principais seleções
-
-- 📅 Publicado: Qua, 14 Mai 2025 16:13:33 -0300
-- 🔗 [Link](https://vestibular.brasilescola.uol.com.br/noticias/vestibulares-2026-de-sao-paulo-confira-datas-da-unesp-fuvest-unicamp-e-outras-selecoes/357716.html)
-
-<img align="left" src="https://conteudo.imguol.com.br/c/noticias/80/2025/05/14/estudante-ruiva-sorrindo-e-apontando-para-cima-1747251288570_v2_142x100.jpg" />  Datas dos principais Vestibulares 2026 de SP já saíram. Seleções da Unesp, Fuvest, Unicamp e ITA, por exemplo, estão entre as maiores do estado e do Brasil.
+<img align="left" src="https://conteudo.imguol.com.br/c/noticias/42/2025/07/24/plata-com-logo-da-ufam-em-fundo-laranja-claro-texto-ufam-psi-2026-1753366472794_v2_142x100.png" />  São oferecidas 636 vagas em cursos de graduação em campus localizados no interior do Amazonas, para ingresso no primeiro semestre letivo de 2026.
 
 ---
 
-## Etec 2025/2: redução da taxa de inscrição do Vestibulinho é prorrogada
+## Edital UFMG Seriado 2026: veja datas e vagas
 
-- 📅 Publicado: Qua, 14 Mai 2025 14:42:03 -0300
-- 🔗 [Link](https://vestibular.brasilescola.uol.com.br/noticias/etec-sp-prorroga-prazo-reducao-taxa-inscricao-vestibulinho-2025-2/357715.html)
+- 📅 Publicado: Qua, 23 Jul 2025 16:34:00 -0300
+- 🔗 [Link](https://vestibular.brasilescola.uol.com.br/noticias/ufmg-edital-vestibular-seriado-2025-datas-vagas-regras/357923.html)
 
-<img align="left" src="https://conteudo.imguol.com.br/c/noticias/d0/2025/05/14/fundo-com-tons-de-roxo-listras-preto-e-branco-foto-do-caderno-de-prova-do-vestibulinho-da-etec-1747244688018_v2_142x100.jpg" />  Pedidos da redução da taxa de inscrição do Vestibulinho 2025/2 da Etec, em São Paulo, são prorrogados. Saiba quem pode pedir desconto para se inscrever.
-
----
-
-## Provão Paulista 2024/2: 4ª chamada é publicada
-
-- 📅 Publicado: Qua, 14 Mai 2025 11:54:58 -0300
-- 🔗 [Link](https://vestibular.brasilescola.uol.com.br/noticias/4-chamada-do-provao-paulista-e-divulgada/357714.html)
-
-<img align="left" src="https://conteudo.imguol.com.br/c/noticias/4b/2025/05/14/httpss3staticbrasilescolauolcombrvestibular202407provao-paulista-2024jpg-1747234788534_v2_142x100.jpg" />  Confira a lista de aprovados em 4ª chamada pelo Provão Paulista 2024/2 e mais informações sobre o vestibular.
+<img align="left" src="https://conteudo.imguol.com.br/c/noticias/6b/2025/07/23/fundo-rosa-foto-do-campus-da-ufmg-texto-ufmg-vestibular-seriado-2025-1753299575338_v2_142x100.png" />  O edital do novo Vestibular Seriado 2025 da Universidade Federal de Minas Gerais (UFMG) foi liberado. Confira vagas, datas e regras.
 
 ---
 
-## Guerra comercial EUA x China: como pode cair no Enem e vestibulares
+## Edital do Vestibular 2026 da Unicamp é liberado: veja datas e vagas
 
-- 📅 Publicado: Ter, 13 Mai 2025 18:57:06 -0300
-- 🔗 [Link](https://vestibular.brasilescola.uol.com.br/noticias/guerra-comercial-eua-china-enem-vestibulares/357712.html)
+- 📅 Publicado: Qua, 23 Jul 2025 14:47:55 -0300
+- 🔗 [Link](https://vestibular.brasilescola.uol.com.br/noticias/unicamp-solta-edital-do-vestibular-2026-veja-datas-vagas-e-novidades/357922.html)
 
-<img align="left" src="https://conteudo.imguol.com.br/c/noticias/f9/2025/05/13/bandeira-dos-estados-unidos-e-china-ilustracao-indica-economia-1747173577873_v2_142x100.jpg" />  Professores comentam sobre a guerra comercial dos Estados Unidos (EUA) e China e compartilham dicas de como o assunto pode cair no Enem e vestibulares.
-
----
-
-## Inscrição Vestibulinho 2025/2 Etec (SP): veja datas da seleção
-
-- 📅 Publicado: Ter, 13 Mai 2025 15:07:52 -0300
-- 🔗 [Link](https://vestibular.brasilescola.uol.com.br/noticias/etec-sp-vagas-datas-inscricao-vestibulinho-2025-2/357709.html)
-
-<img align="left" src="https://conteudo.imguol.com.br/c/noticias/3b/2025/05/13/fundo-com-tons-de-roxo-listras-preto-e-branco-foto-do-caderno-de-prova-do-vestibulinho-da-etec-1747159778097_v2_142x100.jpg" />  Mais de 36 mil vagas são oferecidas no Vestibulinho 2025/2 das Escolas Técnicas Estaduais de São Paulo (Etecs - SP). Clique e saiba mais!
+<img align="left" src="https://conteudo.imguol.com.br/c/noticias/d6/2025/07/23/vestibular-2026-da-unicamp-1753292972922_v2_142x100.png" />  A Unicamp já divulgou o Edital do Vestibular 2026. O processo seletivo, que é um dos maiores do país, oferece 2.520 vagas em diversos cursos de graduação.
 
 ---
 
-## Datas Unesp 2026: veja cronograma do vestibular
+## Resultado UFAM PSC 2025 1ª e 2ª etapa: veja notas
 
-- 📅 Publicado: Ter, 13 Mai 2025 13:58:31 -0300
-- 🔗 [Link](https://vestibular.brasilescola.uol.com.br/noticias/unesp-datas-vestibular-2026-cronograma/357708.html)
+- 📅 Publicado: Qua, 23 Jul 2025 14:24:23 -0300
+- 🔗 [Link](https://vestibular.brasilescola.uol.com.br/noticias/resultado-psc-2025-ufam-notas-desempenho-1-2-etapa/357921.html)
 
-<img align="left" src="https://conteudo.imguol.com.br/c/noticias/0e/2025/05/13/fundo-verde-listras-preto-e-branco-foto-do-campus-da-unesp-e-gramado-1747155578090_v2_142x100.jpg" />  A Universidade Estadual Paulista (Unesp) soltou as datas do Vestibular 2026. Inscrições estarão abertas em setembro e outubro. Provas acontecem em duas fases.
-
----
-
-## UFPR 2026: resultado da isenção é liberado
-
-- 📅 Publicado: Ter, 13 Mai 2025 11:05:00 -0300
-- 🔗 [Link](https://vestibular.brasilescola.uol.com.br/noticias/resultado-parcial-da-isencao-do-vestibular-2026-da-ufpr-e-liberado/357706.html)
-
-<img align="left" src="https://conteudo.imguol.com.br/c/noticias/b0/2025/05/13/campus-da-ufpr-com-fundo-rosa-texto-na-imagem-ufpr-vestibular-2026-1747145378220_v2_142x100.png" />  Confira o link de divulgação do resultado dos pedidos de isenção do vestibular 2026 da UFPR e mais informações sobre o processo seletivo.
+<img align="left" src="https://conteudo.imguol.com.br/c/noticias/e2/2025/07/23/fundo-roxo-1753291472052_v2_142x100.png" />  A Universidade Federal do Amazonas (UFAM) soltou nesta quarta-feira, 23 de julho, o resultado e notas da 1ª e 2ª etapa do PSC 2025. Clique e confira!
 
 ---
 
-## Fatec (SP) 2025/2: resultado isenção e redução da taxa do vestibular
+## Edital Pism UFJF 2026: veja datas e regras do vestibular seriado
 
-- 📅 Publicado: Seg, 12 Mai 2025 15:20:53 -0300
-- 🔗 [Link](https://vestibular.brasilescola.uol.com.br/noticias/fatec-sp-resultado-da-isencao-e-reducao-da-taxa-de-inscricao-do-vestibular-2025-2-esta-disponivel/357680.html)
+- 📅 Publicado: Seg, 21 Jul 2025 15:54:47 -0300
+- 🔗 [Link](https://vestibular.brasilescola.uol.com.br/noticias/ufjf-mg-edital-pism-2026-vagas-datas-regras/357920.html)
 
-<img align="left" src="https://conteudo.imguol.com.br/c/noticias/a0/2025/05/12/fundo-azul-e-branco-listras-branco-e-preto-foto-de-auditorio-da-fatec-texto-fatec-vestibular-20252-1747074160484_v2_142x100.jpg" />  Está disponível o resultado dos pedidos de isenção ou redução da taxa de inscrição do Vestibular 2025/2 da Faculdade de Tecnologia de São Paulo (Fatec).
+<img align="left" src="https://conteudo.imguol.com.br/c/noticias/95/2025/07/21/vista-aerea-da-ufjf-fundo-roxo-com-branco-1753124147499_v2_142x100.jpg" />  O edital do vestibular seriado Pism 2026 da Universidade Federal de Juiz de Fora (UFJF), em Minas Gerais, está disponível. Confira datas, orientações e provas.
+
+---
+
+## Fuvest 2026: novas datas de atendimento especializado
+
+- 📅 Publicado: Seg, 21 Jul 2025 12:41:00 -0300
+- 🔗 [Link](https://vestibular.brasilescola.uol.com.br/noticias/fuvest-anuncia-novas-datas-para-solicitacao-atendimento-especializado-vestibular-2026/357919.html)
+
+<img align="left" src="https://conteudo.imguol.com.br/c/noticias/e3/2025/07/21/fundo-branco-com-cinza-listras-preto-e-branco-foto-de-estudantes-em-campus-da-usp-texto-fuvest-vestibular-2026-1753112740352_v2_142x100.jpg" />  Os candidatos podem entrar com pedido entre os dias 18 de agosto e 1º de setembro. São oferecidos mais de 8 mil vagas de graduação.
+
+---
+
+## UEA: inscrição aberta para Vestibular 2026 e SIS 2025
+
+- 📅 Publicado: Seg, 21 Jul 2025 10:40:40 -0300
+- 🔗 [Link](https://vestibular.brasilescola.uol.com.br/noticias/uea-inscricao-aberta-vestibular-2026-sis-2025/357918.html)
+
+<img align="left" src="https://conteudo.imguol.com.br/c/noticias/bd/2025/07/21/vestibular-sis-2026-uea-1753105542188_v2_142x100.png" />  Juntos, os dois processos seletivos oferecem 3.716 vagas para cursos de graduação.
+
+---
+
+## UECE 2026: confira datas de provas e regras da isenção de taxa
+
+- 📅 Publicado: Qua, 16 Jul 2025 11:30:09 -0300
+- 🔗 [Link](https://vestibular.brasilescola.uol.com.br/noticias/uece-divulga-datas-provas-vestibular-2026-edital-isencao-taxa/357915.html)
+
+<img align="left" src="https://conteudo.imguol.com.br/c/noticias/af/2025/07/16/campus-da-uece-em-fundo-laranja-claro-com-listras-coloridas-texto-uece-vestibular-2026-1752676243632_v2_142x100.png" />  São ofertadas 2.880 vagas em cursos de graduação para ingresso no primeiro semestre letivo de 2026.
+
+---
+
+## UFSM confira o resultado para Vagas Complementares 2025.2
+
+- 📅 Publicado: Ter, 15 Jul 2025 09:08:15 -0300
+- 🔗 [Link](https://vestibular.brasilescola.uol.com.br/noticias/ufsm-divulga-resultado-vagas-complementares-2025-2/357914.html)
+
+<img align="left" src="https://conteudo.imguol.com.br/c/noticias/f7/2025/07/15/foto-do-campus-da-ufsm-em-fundo-azul-claro-com-listras-texto-ufsm-vagas-complementares-20252-1752581368160_v2_142x100.png" />  O Vestibular oferece 418 vagas em cursos de graduação para ingresso no segundo semestre letivo de 2025.
+
+---
+
+## Isenção UFRGS 2026: pedido do vestibular está disponível
+
+- 📅 Publicado: Ter, 15 Jul 2025 08:02:06 -0300
+- 🔗 [Link](https://vestibular.brasilescola.uol.com.br/noticias/ufrgs-abre-isencao-da-taxa-de-incricao-para-o-vestibular/357912.html)
+
+<img align="left" src="https://conteudo.imguol.com.br/c/noticias/02/2025/07/15/fundo-laranja-claro-listras-preto-e-verde-foto-o-letreiro-da-ufrgs-1752577503862_v2_142x100.png" />  A Universidade Federal do Rio Grande do Sul (UFRGS) abriu prazo para fazer o pedido da isenção da taxa de inscrição para o Vestibular 2026. Saiba mais!
+
+---
+
+## Vestibular UFG 2026: confira edital, vagas e novidades
+
+- 📅 Publicado: Seg, 14 Jul 2025 15:04:00 -0300
+- 🔗 [Link](https://vestibular.brasilescola.uol.com.br/noticias/ufg-volta-a-ter-vestibular-confira-edital-e-vagas-do-vestibular-2026/357910.html)
+
+<img align="left" src="https://conteudo.imguol.com.br/c/noticias/05/2025/07/14/vestibular-2026-da-ufg-1752516568350_v2_142x100.png" />  UFG informou que voltará a ter vestibular tradicional. A instituição também divulgou Edital com vagas e novidades na tarde de hoje, 14 de julho.
+
+---
+
+## Resultado Fatec 2025.2: veja aprovados no vestibular
+
+- 📅 Publicado: Seg, 14 Jul 2025 15:02:00 -0300
+- 🔗 [Link](https://vestibular.brasilescola.uol.com.br/noticias/fatec-sp-resultado-vestibular-20252-aprovados-selecao/357909.html)
+
+<img align="left" src="https://conteudo.imguol.com.br/c/noticias/03/2025/07/14/fundo-azul-e-branco-listras-branco-e-preto-foto-de-auditorio-da-fatec-texto-fatec-vestibular-20252-1752516266380_v2_142x100.jpg" />  O resultado do Vestibular 2025.2 da Faculdade de Tecnologia do Estado de São Paulo (Fatec - SP) foi liberado hoje (14). Clique e veja aprovados!
 
 ---
